@@ -1,0 +1,3 @@
+[submodule "MapsUploader"]
+	path = MapsUploader
+	url = git@github.com:esloch/MapsUploader
